@@ -1,6 +1,7 @@
 # DTEmpire Optimized
 
 An optimization pack for Minecraft, designed to enhance the game while preserving that classic Vanilla feel! Key features include drastically increased FPS, updated HUD and UI elements, mob animations, and quality-of-life improvements. Inspired by Minecraft Dungeons, this pack also introduces new structures and other additions that bring fresh visual appeal and smoother gameplay. Using mods like Sodium and Lithium to boost FPS, along with shaders for realistic lighting and resource packs for upgraded textures, it makes Minecraft more visually stunning and efficient—perfect for an optimized yet authentic experience.
+
 <center>
 <div style="display: flex; justify-content: center; gap: 30px; align-items: center;">
   <div style="text-align: center;">
