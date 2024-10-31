@@ -1,5 +1,16 @@
 # DTEmpire Optimized
 
-The *DTEmpire Optimized* Minecraft pack is crafted to elevate your gameplay while preserving that authentic Vanilla feel. Featuring FPS boosts, refined HUD/UI, improved mob animations, and various quality-of-life enhancements, this pack combines essential mods, shaders, and resource textures to deliver a smoother, more immersive experience.
+The *DTEmpire Optimized* pack is a comprehensive Minecraft enhancement, crafted to boost performance while keeping the beloved Vanilla essence intact. This pack drastically increases FPS, upgrades HUD and UI, introduces animated mobs, and offers quality-of-life improvements. Inspired by the depth and design of Minecraft Dungeons, it brings in new structures and added elements that provide fresh visuals and smoother gameplay.
 
-Enjoy the best of Minecraft with optimized performance, stunning visuals, and seamless gameplay tailored for an authentic yet refreshed adventure.
+Using powerful mods like *Sodium* and *Lithium* to maximize FPS, along with shaders for realistic lighting and resource packs for upgraded textures, *DTEmpire Optimized* makes Minecraft both visually stunning and highly efficient—a perfect balance of optimization and authentic experience.
+
+![DTEmpire Official Optimized](https://cdn.modrinth.com/data/cached_images/8a90fa7301489dc7cbcc6f9835d5eec0bed2dd1a_0.webp)
+
+### Additional Resource Packs
+For an enhanced experience, this pack includes compatibility with other top resource packs:
+
+- [BetterVanillaBuilding](https://modrinth.com/resourcepack/bettervanillabuilding)
+- [BetterVanillaBuilding Overlays](https://modrinth.com/resourcepack/bettervanillabuildingoverlays) 
+- [Vanilla Tweaks](https://vanillatweaks.net/)
+
+Elevate your Minecraft world with *DTEmpire Optimized* for a refined, efficient, and immersive adventure!
