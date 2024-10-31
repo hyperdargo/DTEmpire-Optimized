@@ -1,0 +1,2 @@
+#Thu Oct 31 15:09:47 NPT 2024
+COLORED_SHADOW=true
