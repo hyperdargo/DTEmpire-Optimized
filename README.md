@@ -4,7 +4,9 @@ The *DTEmpire Optimized* pack is a comprehensive Minecraft enhancement, crafted 
 
 Using powerful mods like *Sodium* and *Lithium* to maximize FPS, along with shaders for realistic lighting and resource packs for upgraded textures, *DTEmpire Optimized* makes Minecraft both visually stunning and highly efficient—a perfect balance of optimization and authentic experience.
 
-![DTEmpire Official Optimized](https://cdn.modrinth.com/data/cached_images/8a90fa7301489dc7cbcc6f9835d5eec0bed2dd1a_0.webp)
+<p align="center">
+  <img src="https://cdn.modrinth.com/data/cached_images/8a90fa7301489dc7cbcc6f9835d5eec0bed2dd1a_0.webp" alt="DTEmpire Official Optimized">
+</p>
 
 ### Additional Resource Packs
 For an enhanced experience, this pack includes compatibility with other top resource packs:
