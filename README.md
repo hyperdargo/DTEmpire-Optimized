@@ -13,6 +13,6 @@ For an enhanced experience, this pack includes compatibility with other top reso
 
 - [BetterVanillaBuilding](https://modrinth.com/resourcepack/bettervanillabuilding)
 - [BetterVanillaBuilding Overlays](https://modrinth.com/resourcepack/bettervanillabuildingoverlays) 
-- [Vanilla Tweaks](https://vanillatweaks.net/)
+- [Vanilla Tweaks](https://vanillatweaks.net/) 
 
 Elevate your Minecraft world with *DTEmpire Optimized* for a refined, efficient, and immersive adventure!
