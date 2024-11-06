@@ -1,0 +1,14 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": 0,
+  "loadedPresets": [
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/cf4fb099c8710f7fd7a63c2d8c69328c4eada2497e6a48f45f4ca0b2b782707f",
+        "model": "classic",
+        "type": "skinshuffle:url"
+      },
+      "name": "DargoTamber"
+    }
+  ]
+}

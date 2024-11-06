@@ -1,0 +1,22 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": 0,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "1428563633",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "DargoTamber"
+    },
+    {
+      "skin": {
+        "skin_name": "366188916",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "No1"
+    }
+  ]
+}
